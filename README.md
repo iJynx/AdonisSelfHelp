@@ -67,3 +67,4 @@ To add the bot to your guild, you have to get an oauth link for it.
 
 You can use this site to help you generate a full OAuth Link, which includes a calculator for the permissions:
 [Permission Calculator](https://finitereality.github.io/permissions-calculator/?v=0)
+"# AdonisSelfHelp" 
